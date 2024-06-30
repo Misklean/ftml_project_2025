@@ -7,3 +7,6 @@ scikit-learn-extra
 xgboost
 lightgbm
 catboost
+imblearn
+bayesian-optimization
+optuna
